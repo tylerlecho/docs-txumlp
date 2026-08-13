@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-z98u22.indocuan-win.sbs/sitemap.xml
